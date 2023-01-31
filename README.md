@@ -4,8 +4,8 @@
 To projekt zaliczeniowy z języka C++,
 uruchomienie FlappyBird - projekt -> x64 -> Release -> FlappyBird.exe
 
-<img src="FlappyBird/img/ss1.png?raw=true" alt="drawing" style="width:200px;"/>
-<img src="FlappyBird/img/ss2.png?raw=true" alt="drawing" style="width:200px;"/>
+<img src="FlappyBird/img/ss1.png?raw=true" alt="drawing" style="width:500px;"/>
+<img src="FlappyBird/img/ss2.png?raw=true" alt="drawing" style="width:500px;"/>
 
 
 ## Pojekt z przedmiotu systemy wbudowane
@@ -16,8 +16,8 @@ w istniejącym projekcie w języku C#.
 ObiektSym --> ObiektSym.exe
 W programie należy wybrać symulacje "Obiekt X"
 
-<img src="SystemyWbudowane/img/ss1.png?raw=true" alt="drawing" style="width:200px;"/>
-<img src="SystemyWbudowane/img/ss2.png?raw=true" alt="drawing" style="width:200px;"/>
+<img src="SystemyWbudowane/img/ss1.png?raw=true" alt="drawing" style="width:500px;"/>
+<img src="SystemyWbudowane/img/ss2.png?raw=true" alt="drawing" style="width:500px;"/>
 
 # Grafika komputerowa
 
@@ -27,5 +27,5 @@ OpenGL.
 Uruchomienie GrafikaKomp -> Release -> GL_Template_2015.exe
 Przy pomocy strzałek możliwe jest obracanie sceny.
 
-<img src="grafikaKomp/img/ss1.png?raw=true" alt="drawing" style="width:200px;"/>
-<img src="grafikaKomp/img/ss2.png?raw=true" alt="drawing" style="width:200px;"/>
+<img src="grafikaKomp/img/ss1.png?raw=true" alt="drawing" style="width:500px;"/>
+<img src="grafikaKomp/img/ss2.png?raw=true" alt="drawing" style="width:500px;"/>
