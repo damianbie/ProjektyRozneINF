@@ -17,6 +17,11 @@ w istniejącym projekcie w języku C#.
 ObiektSym --> ObiektSym.exe
 W programie należy wybrać symulacje "Obiekt X"
 
+![Animacja robota](SystemyWbudowane/img/ss1.png?raw=true "Tryb pracy - automatyczny")
+
+![Animacja robota](SystemyWbudowane/img/ss2.png?raw=true "Tryb pracy - manualny")
+
+
 # Grafika komputerowa
 
 Projekt polegał na zaprogramowaniu animacji robota przemysłowego przy pomocy 
