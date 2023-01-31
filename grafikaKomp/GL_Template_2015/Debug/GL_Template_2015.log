@@ -1,0 +1,14 @@
+﻿  GL_Temlate_2015.c
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(260,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(342,12): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(342,21): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(354,12): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(354,21): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(366,12): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(366,21): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(507,12): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(507,21): warning C4305: "funkcja": obcięcie z "double" do "GLfloat"
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(1041,26): warning C4244: "=": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(1042,26): warning C4244: "=": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Damian\Desktop\grafikaKomp\GL_Template_2015\GL_Temlate_2015.c(1065,37): warning C4554: „&”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+  GL_Template_2015.vcxproj -> C:\Users\Damian\Desktop\grafikaKomp\Debug\GL_Template_2015.exe
