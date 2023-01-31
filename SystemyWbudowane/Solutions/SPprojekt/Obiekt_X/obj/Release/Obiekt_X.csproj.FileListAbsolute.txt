@@ -1,0 +1,8 @@
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\bin\Release\Obiekt_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\bin\Release\Obiekt_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Release\Obiekty.Obiekt_X.resources
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Release\Obiekt_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Release\Obiekt_X.pdb

@@ -1,0 +1,13 @@
+LIBRARY   outcode
+EXPORTS
+   Prolog = setup
+   Zadanie = task
+   Przerwanie = int_T0
+   Wykres = trend
+   dll_GetPlantInp = dll_GetPlantInp
+   dll_GetDispInp = dll_GetDispInp
+   dll_GetChart = dll_GetChart
+   dll_GetComBuf = dll_GetComBuf
+   dll_SetPlantOut = dll_SetPlantOut
+   dll_SetDispOut = dll_SetDispOut
+   dll_SetComBuf = dll_SetComBuf

@@ -1,0 +1,62 @@
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Obiekt_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Obiekt_X\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekty.Obiekt_X.resources
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Obiekt_X\obj\Debug\Obiekt_X.pdb

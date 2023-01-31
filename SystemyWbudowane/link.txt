@@ -1,0 +1,2 @@
+start841.obj, test.obj, LCD841.obj to test &
+nooverlay  map ixref publics symbols

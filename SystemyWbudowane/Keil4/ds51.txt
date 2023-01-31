@@ -1,0 +1,42 @@
+g			- uruchomienie programu
+g,main			- przejscie do funkcji main()
+
+ESC			- przerwanie dzialania programu
+
+F5			- uruchomienie programu
+F8			- sledzenie programu
+F10			- sledzenie programu
+
+ws PORT1		- sledzenie zmian stanu portu P1
+ws timer		- sledzenie zmian wartosci zmiennej timer
+ws a, 10		- sledzenie zmiennej (wyswietl. wart. dziesietnej)
+
+bs int_1,1,"count()"	- zalozenie pulapki na funkcje int_1; po napotkaniu
+			  pierwszego wywolania int_1 wywoluje funkcje
+			  count() zdefiniowana w pliku *.ini
+bs (a==5)&&(b<7)
+
+disp(50000L)		- wywolanie funkcji sygnalowej (wywolywanej w tle)
+			  co 50000 cykli maszynowych
+
+timer=4			- zmiana wartosci zmiennej timer
+
+$=2000h			- zmiana wartosci rejestru PC (Program Counter)
+
+int(x:4000h)		- odczyt wartosci zmiennej calkowitej umieszczonej
+			  pod adresem 0x4000 w pamieci XDATA
+
+int(x:4000h)=15		- nadanie wartosci 15 zmiennej calkowitej umieszczonej
+			  pod adresem 0x4000 w pamieci XDATA
+
+P1			- oznaczenie rejestru portu P1
+PORT1			- oznaczenie koncowki portu P1 (np.do podlacz.klawiszy)
+
+func void fun(void)
+ { exec("reset"); }
+        "bs int_1"
+        "st_led()"
+
+func void klaw(void)
+{ char kl;
+  kl=getint("Wprowadz stan klawisza");}

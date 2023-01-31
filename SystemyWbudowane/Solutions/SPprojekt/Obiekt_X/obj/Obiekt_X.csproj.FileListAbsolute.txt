@@ -1,0 +1,10 @@
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_X\obj\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Obiekt_X\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Obiekt_X\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Obiekt_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Obiekt_X\obj\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Obiekt_X\obj\Debug\Obiekt_X.pdb

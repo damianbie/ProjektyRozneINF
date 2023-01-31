@@ -1,0 +1,5 @@
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\bin\Release\Panel_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\bin\Release\Panel_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\obj\Release\Panel_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\obj\Release\Panel_X.pdb

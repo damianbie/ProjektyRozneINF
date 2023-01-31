@@ -1,0 +1,5 @@
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_SP841\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_SP841\bin\Debug\Panel_SP841.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_SP841\bin\Debug\Panel_SP841.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_SP841\obj\Debug\Panel_SP841.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_SP841\obj\Debug\Panel_SP841.pdb

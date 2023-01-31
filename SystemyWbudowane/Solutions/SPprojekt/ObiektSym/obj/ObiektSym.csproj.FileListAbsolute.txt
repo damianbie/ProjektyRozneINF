@@ -1,0 +1,62 @@
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.exe
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.pdb
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.Form1.resources
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.Properties.Resources.resources
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.csproj.GenerateResource.Cache
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\bin\Debug\ObiektSym.exe
+C:\Documents and Settings\Andrzej\Moje dokumenty\Visual Studio 2005\Projects\ObiektSym\ObiektSym\bin\Debug\ObiektSym.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.exe
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\bin\Debug\ObiektSym.exe
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\bin\Debug\ObiektSym.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.Form1.resources
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.Properties.Resources.resources
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSym\ObiektSym\obj\Debug\ObiektSym.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\obj\Debug\ObiektSym.exe
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\obj\Debug\ObiektSym.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\obj\Debug\ObiektSym.Properties.Resources.resources
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\obj\Debug\ObiektSym.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\ObiektSym.exe
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\ObiektSym.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_A.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_A.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_B.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_C.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_B.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_C.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Baza.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Baza.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_G.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_G.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_F.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_E.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_D.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_F.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_E.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_D.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_SP841.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_SP841.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_H.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Obiekt_H.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_SPAVR.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_SPAVR.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_MegaAVR.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_MegaAVR.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\ObiektSym\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\obj\Debug\ObiektSym.exe
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\obj\Debug\ObiektSym.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\obj\Debug\ObiektSym.Properties.Resources.resources
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\obj\Debug\ObiektSym.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\bin\Debug\ObiektSym.exe
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\bin\Debug\ObiektSym.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\bin\Debug\Obiekt_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\bin\Debug\Obiekt_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\ObiektSym\bin\Debug\Panel_X.pdb

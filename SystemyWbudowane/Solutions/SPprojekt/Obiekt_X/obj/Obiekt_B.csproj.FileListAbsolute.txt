@@ -1,0 +1,5 @@
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_B\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_B\bin\Debug\Obiekt_B.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_B\bin\Debug\Obiekt_B.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_B\obj\Debug\Obiekt_B.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Obiekt_B\obj\Debug\Obiekt_B.pdb

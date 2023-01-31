@@ -1,0 +1,5 @@
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\ObiektSym\bin\Release\ObiektSym.exe.config
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\ObiektSym\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\ObiektSym\obj\Release\ObiektSym.Properties.Resources.resources
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\ObiektSym\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\ObiektSym\obj\Release\GenerateResource.write.1.tlog

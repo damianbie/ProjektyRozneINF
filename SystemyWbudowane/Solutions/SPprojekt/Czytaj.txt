@@ -1,0 +1,6 @@
+1. Otworzyæ projekt ObiektSym.sln w Visual Studio 2010
+2. W razie potrzeby przekopiowaæ odpowiednie pliki z katalogu DLL (dla wersji 32-bitowej z x86, dla wersji 64-bitowej z x64)
+3. W w³aœciwoœciach SPSym wskazaæ œcie¿ki dostêpu do plików wynikowych ObiektSym (przyciskiem [...]): .\ObiektSym\bin\Debug
+4. Przebudowaæ rozwi¹zanie (Build/Rebuild Solution) i uruchomiæ (Start Debugging)
+5. W pliku Panel_X.cs mo¿na wprowadzaæ modyfikacje dotycz¹ce panelu u¿ytkownika, w pliku Obiekt_X.cs - modyfikacje obiektu sterowania. 
+6. Modyfikacje programu sterowania (Test_X.c => outcode.dll) wykonuje siê w œrodowisku SPSym , tj. przygotowaæ w³asny program, skompilowaæ go na platformê PC i uruchomiæ symulacjê.

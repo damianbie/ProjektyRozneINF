@@ -1,0 +1,38 @@
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Panel_X\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Panel_X\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Panel_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Panel_X\obj\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Obiekt_X\Panel_X\obj\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Panel_X\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Panel_X\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Panel_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Panel_X\obj\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\P2\Obiekt_X\Panel_X\obj\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Panel_X\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Panel_X\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Panel_X\obj\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Panel_X\obj\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPprojekt\Panel_X\obj\Debug\Panel_X.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.pdb
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.dll
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.pdb
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.dll
+C:\Documents and Settings\4eadi07\Pulpit\SW\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2010\Projects\Systemy wbudowane\SPSym\SPSym\bin\Debug\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\bin\Debug\Panel_X.pdb
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.dll
+C:\Documents and Settings\3efdi06\Pulpit\SPSym\Solutions\SPprojekt\Panel_X\obj\Debug\Panel_X.pdb

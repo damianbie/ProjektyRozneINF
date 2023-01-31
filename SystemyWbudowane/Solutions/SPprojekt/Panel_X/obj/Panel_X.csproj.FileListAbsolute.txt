@@ -1,0 +1,10 @@
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_X\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_X\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_X\obj\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\ObiektSymDLL\Panel_X\obj\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Panel_X\bin\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Panel_X\bin\Debug\Panel_X.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Panel_X\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Panel_X\obj\Debug\Panel_X.dll
+C:\Users\Andrzej\Documents\Visual Studio 2005\Projects\Obiekt_X\Panel_X\obj\Debug\Panel_X.pdb

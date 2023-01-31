@@ -1,0 +1,1 @@
+\pb552win\keil4\bin\ds51.exe init(ds51.ini)
