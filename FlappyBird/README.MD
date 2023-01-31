@@ -1,3 +1,5 @@
+# Flappy Bird
+
 Projekt zaliczeniowy z c++ wykonany przez Damiana Bieleckiego.
 Politechnika Rzeszowska im. Ignacego Łukasiewicza 2EFZI P1 25.01.2021r
 
