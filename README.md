@@ -4,9 +4,9 @@
 To projekt zaliczeniowy z języka C++,
 uruchomienie FlappyBird - projekt -> x64 -> Release -> FlappyBird.exe
 
-![Animacja robota](FlappyBird_projekt/img/ss1.png?raw=true "Okno startowe")
+![Animacja robota](FlappyBird/img/ss1.png?raw=true "Okno startowe")
 
-![Animacja robota](FlappyBird_projekt/img/ss2.png?raw=true "Widok po przegraniu")
+![Animacja robota](FlappyBird/img/ss2.png?raw=true "Widok po przegraniu")
 
 
 ## Pojekt z przedmiotu systemy wbudowane
