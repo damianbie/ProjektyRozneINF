@@ -33,3 +33,7 @@ Przy pomocy strzałek możliwe jest obracanie sceny.
 <img src="grafikaKomp/img/ss1.png?raw=true" alt="drawing" style="width:500px;"/>
 <img src="grafikaKomp/img/ss2.png?raw=true" alt="drawing" style="width:500px;"/>
 </div>
+
+# Projekt komunikacji pomiędzy ESP32
+
+Projekt zakła zaprojektownaie komunikacji pomiędzy mikrokontrolerami ESP32.
