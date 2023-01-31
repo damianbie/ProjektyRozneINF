@@ -4,9 +4,8 @@
 To projekt zaliczeniowy z języka C++,
 uruchomienie FlappyBird - projekt -> x64 -> Release -> FlappyBird.exe
 
-![Animacja robota](FlappyBird/img/ss1.png?raw=true "Okno startowe")
-
-![Animacja robota](FlappyBird/img/ss2.png?raw=true "Widok po przegraniu")
+<img src="FlappyBird/img/ss1.png?raw=true" alt="drawing" style="width:200px;"/>
+<img src="FlappyBird/img/ss2.png?raw=true" alt="drawing" style="width:200px;"/>
 
 
 ## Pojekt z przedmiotu systemy wbudowane
@@ -17,10 +16,8 @@ w istniejącym projekcie w języku C#.
 ObiektSym --> ObiektSym.exe
 W programie należy wybrać symulacje "Obiekt X"
 
-![Animacja robota](SystemyWbudowane/img/ss1.png?raw=true "Tryb pracy - automatyczny")
-
-![Animacja robota](SystemyWbudowane/img/ss2.png?raw=true "Tryb pracy - manualny")
-
+<img src="SystemyWbudowane/img/ss1.png?raw=true" alt="drawing" style="width:200px;"/>
+<img src="SystemyWbudowane/img/ss2.png?raw=true" alt="drawing" style="width:200px;"/>
 
 # Grafika komputerowa
 
@@ -30,6 +27,5 @@ OpenGL.
 Uruchomienie GrafikaKomp -> Release -> GL_Template_2015.exe
 Przy pomocy strzałek możliwe jest obracanie sceny.
 
-![Animacja robota](grafikaKomp/img/ss1.png?raw=true "Zrzut ekranu z porgramu")
-
-![Animacja robota](grafikaKomp/img/ss2.png?raw=true "Zrzut ekranu z porgramu")
+<img src="grafikaKomp/img/ss1.png?raw=true" alt="drawing" style="width:200px;"/>
+<img src="grafikaKomp/img/ss2.png?raw=true" alt="drawing" style="width:200px;"/>
